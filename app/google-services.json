@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748632834722",
+    "project_id": "tugasakhirapk",
+    "storage_bucket": "tugasakhirapk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748632834722:android:32a0754b0701acb86acdfb",
+        "android_client_info": {
+          "package_name": "farrel.tugasakhir.apkmenumakanan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748632834722-m7m610qv2m4fb3q4b5pbviov8hrsqsvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXAh1oQipEpC3mDJz7TzqdKRje98n07Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748632834722-m7m610qv2m4fb3q4b5pbviov8hrsqsvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
